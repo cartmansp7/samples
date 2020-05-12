@@ -16,7 +16,7 @@ you can read more about the concepts covered in each sample.
 
 Both samples and snippets should be buildable projects. Those projects should build and
 run on the widest set of platforms possible for the given sample. In practice, that means building .NET Core based console applications where possible. Samples that are specific to the web or a UI framework should add those tools as needed. Examples include web applications, mobile apps, WPF or WinForms apps and so on.
-
+test
 We are working toward having a CI system in place for all code. When you make any updates to samples, make sure each update is part of a buildable
 project. Ideally, add tests for correctness on samples as well.
 
