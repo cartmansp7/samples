@@ -9,6 +9,7 @@ Some of the articles will have more than one sample associated with them.
 
 There are two classes of code in this repository:
 
+
 - **Snippets** represent small focused examples that demonstrate one feature or syntax. These should be no more than a single screen of code.
 - **Samples** represent programs that demonstrate application or library scenarios. These samples are typically larger than snippets, and often use more than one technology, feature, or toolkit. The readme.md file for each sample will refer to the article so that
 you can read more about the concepts covered in each sample.
